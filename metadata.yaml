@@ -1,0 +1,32 @@
+_repo: Kaappaajan-kynsissa-Romaani_62293
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Frich, Øvre Richter
+    aliases:
+    - Frich, Gert Øvre Richter
+    - Richter Frich, Øvre
+    - Frich, Ovre Richter
+    - Richter-Frich, Øvre
+    birthdate: 1872
+    deathdate: 1945
+    gutenberg_agent_id: '49743'
+    url: http://www.gutenberg.org/2009/agents/49743
+    wikipedia:
+    - https://en.wikipedia.org/wiki/%C3%98vre_Richter_Frich
+    - https://no.wikipedia.org/wiki/%C3%98vre_Richter_Frich
+description: ''
+gutenberg_issued: '2020-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62293'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kaappaajan kynsissä
+
+  Romaani'
+url: http://www.gutenberg.org/ebooks/62293
